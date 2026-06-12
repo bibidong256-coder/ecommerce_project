@@ -1,0 +1,10 @@
+# Ignore vendor dependencies (if using Composer)
+/vendor/
+
+# Ignore environment files containing secret passwords
+.env
+.env.local
+
+# Ignore server/OS specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,797 @@
+GENTAL Products
+        <!-- Product 1 -->
+        <div class="pro" >
+            <!-- Using placeholder images for demonstration -->
+            <img src="men-shoes/gentals/gental1/no1.jpg" alt="">
+            <div class="des">
+                <span>causal</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs80,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single8-gental.html?id=1" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 2 -->
+        <div class="pro" >
+            <img src="men-shoes/gentals/gental2/no1.jpg" alt="">
+            <div class="des">
+                <span>gental shoe</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs85,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single8-gental.html?id=2" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 3 -->
+        <div class="pro" >
+            <img src="men-shoes/gentals/gental3/no1.jpg" alt="">
+            <div class="des">
+                <span>suede</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs100,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single8-gental.html?id=3" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 4 -->
+        <div class="pro" >
+            <img src="men-shoes/gentals/gental4/no1.jpg" alt="">
+            <div class="des">
+                <span>shinny shoes</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs150,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single8-gental.html?id=4" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 5 -->
+        <div class="pro" >
+            <img src="men-shoes/gentals/genatl5/no1.jpg" alt="">
+            <div class="des">
+                <span>Gental shoes</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs95,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single8-gental.html?id=5" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 6 -->
+        <div class="pro" >
+            <img src="men-shoes/gentals/genal6/no1.jpg" alt="">
+            <div class="des">
+                <span>suede</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs150,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single8-gental.html?id=6" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 7 -->
+        <div class="pro" >
+            <img src="men-shoes/gentals/gental7/no2.jpg" alt="">
+            <div class="des">
+                <span>Cuadra</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs120,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single8-gental.html?id=7" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 8 -->
+        <div class="pro" >
+            <img src="men-shoes/gentals/gental8/no1.jpg" alt="">
+            <div class="des">
+                <span>suede</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs150,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single8-gental.html?id=8" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 9 -->
+        <!-- <div class="pro" >
+            <img src="shoes images/more shoes/IMG-20250920-WA0039.jpg" alt="">
+            <div class="des">
+                <span>Timber land</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs100,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=9" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div> -->
+
+        <!-- Product 10 -->
+        <!-- <div class="pro" >
+            <img src="men images/puma.jpg" alt="">
+            <div class="des">
+                <span>Puma</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs35,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=10" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div> -->
+
+        <!-- Product 11 -->
+        <!-- <div class="pro" >
+            <img src="men images/casual 2.jpg" alt="">
+            <div class="des">
+                <span>Gental shoe</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs80,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=11" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div> -->
+
+        <!-- Product 12 -->
+        <div class="pro" >
+            <img src="men images/m9.jpg" alt="">
+            <div class="des">
+                <span>boot</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs200,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=12" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+
+WOMEN_BOOTS Product
+        <!-- Product 1 -->
+        <div class="pro" >
+            <!-- Using placeholder images for demonstration -->
+            <img src="women-shoes_more/boots/boots1/no1.jpg" alt="">
+            <div class="des">
+                <span>causal</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs60,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single5-boots.html?id=1" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 2 -->
+        <div class="pro" >
+            <img src="women-shoes_more/boots/boots2/no1.jpg" alt="">
+            <div class="des">
+                <span>gental shoe</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs100,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single5-boots.html?id=2" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 3 -->
+        <div class="pro" >
+            <img src="men images/m6.jpg" alt="">
+            <div class="des">
+                <span>Timberland</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs100,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=3" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 4 -->
+        <div class="pro" >
+            <img src="men images/m8.jpg" alt="">
+            <div class="des">
+                <span>nike</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs90,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=4" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 5 -->
+        <div class="pro" >
+            <img src="men images/m3.jpg" alt="">
+            <div class="des">
+                <span>Gental shoes</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs95,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=5" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 6 -->
+        <div class="pro" >
+            <img src="men images/m7.jpg" alt="">
+            <div class="des">
+                <span>whole star</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs50,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=6" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 7 -->
+        <div class="pro" >
+            <img src="shoes images/more shoes/IMG-20250920-WA0041.jpg" alt="">
+            <div class="des">
+                <span>BALECIAGA</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs45,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=7" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 8 -->
+        <div class="pro" >
+            <img src="men images/m4.jpg" alt="">
+            <div class="des">
+                <span>suede</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs150,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=8" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 9 -->
+        <div class="pro" >
+            <img src="shoes images/more shoes/IMG-20250920-WA0039.jpg" alt="">
+            <div class="des">
+                <span>Timber land</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs100,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=9" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 10 -->
+        <div class="pro" >
+            <img src="men images/puma.jpg" alt="">
+            <div class="des">
+                <span>Puma</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs35,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=10" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 11 -->
+        <div class="pro" >
+            <img src="men images/casual 2.jpg" alt="">
+            <div class="des">
+                <span>Gental shoe</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs80,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=11" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+        <!-- Product 12 -->
+        <div class="pro" >
+            <img src="men images/m9.jpg" alt="">
+            <div class="des">
+                <span>boot</span>
+                <h5>Cartoo Astronaut Shoes</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>Shs200,000</h4>
+            </div>
+            <div class="product-actions">
+                <a href="#" class="cart-link" title="Add to Cart">
+                    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+                </a>
+                <a href="single3-product.html?id=12" class="view-details-btn">
+                    <i class="fas fa-eye"></i> View Details
+                </a>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+SCRIPT for single product
+  <script>
+    // All your product data here
+    const products = [
+      {
+        id: 1,
+        brand: "Nike",
+        name: "Cartoo Astronaut Shoes",
+        price: " 45,000",
+        image: "shoes images/more shoes/shop1/no1.jpg",
+        // Add additional images for this product
+        additionalImages: [
+         "shoes images/more shoes/shop1/no2.jpg",
+         "shoes images/more shoes/shop1/no3.jpg",
+         "shoes images/more shoes/shop1/no4.jpg"
+        ],
+        description: "Step into comfort and style with the Cartoo Astronaut Shoes from Oxford. Designed for both casual and sporty looks, these shoes combine breathable materials with durable soles for all-day comfort. Perfect for everyday wear and light exercise."
+      },
+      {
+        id: 2,
+        brand: "Nike",
+        name: "Airmax Classic",
+        price: "UGX 50,000",
+        image: "shoes images/more shoes/shop2/no1.jpg",
+        additionalImages: [
+         "shoes images/more shoes/shop2/no2.jpg",
+         "shoes images/more shoes/shop2/no3.jpg",
+         "shoes images/more shoes/shop2/no4.jpg"
+        ],
+        description: "A timeless design from Nike offering cushioning and comfort with every step."
+      },
+      {
+        id: 3,
+        brand: "Jintu",
+        name: " Classic",
+        price: "UGX 80,000",
+        image: "shoes images/more shoes/shop3/no1.jpg",
+        additionalImages: [
+         "shoes images/more shoes/shop3/no2.jpg",
+         "shoes images/more shoes/shop3/no3.jpg",
+         "shoes images/more shoes/shop3/no4.jpg"
+        ],
+        description: "A timeless design from Nike offering cushioning and comfort for ur feet."
+      },
+      {
+        id: 4,
+        brand: "Seude",
+        name: " Classic",
+        price: "UGX 150,000",
+        image: "shoes images/more shoes/shop4/no1.jpg",
+        additionalImages: [
+         "shoes images/more shoes/shop4/no2.jpg",
+         "shoes images/more shoes/shop4/no3.jpg",
+         "shoes images/more shoes/shop4/no4.jpg"
+        ],
+        description: "A timeless design from Suede offering  comfort with every step."
+      },
+      {
+        id: 5,
+        brand: "Timberland",
+        name: " Classic",
+        price: "UGX 170,000",
+        image: "shoes images/more shoes/shop5/no1.jpg",
+        additionalImages: [
+         "shoes images/more shoes/shop5/no2.jpg",
+         "shoes images/more shoes/shop5/no3.jpg",
+         "shoes images/more shoes/shop5/no4.jpg"
+        ],
+        description: "A timeless design  offering  comfort with every step."
+      },
+      {
+        id: 6,
+        brand: "luis Viton",
+        name: "Premium ",
+        price: "UGX 170,000",
+        image: "shoes images/more shoes/shop6/no1.jpg",
+        additionalImages: [
+         "shoes images/more shoes/shop6/no2.jpg",
+         "shoes images/more shoes/shop6/no3.jpg",
+         "shoes images/more shoes/shop6/no4.jpg"
+        ],
+        description: "Step into confidence and luxury with these stunning Oxford. Designed for men who love to stand out, this combines style, comfort, and elegance in one perfect pair."
+      }, 
+      {
+        id: 7,
+        brand: "Hills",
+        name: "Classic",
+        price: "UGX 95,000",
+        image: "shoes images/more shoes/shop7/no3.jpg",
+        additionalImages: [
+         "shoes images/more shoes/shop7/no1.jpg",
+         "shoes images/more shoes/shop7/no2.jpg",
+         "shoes images/more shoes/shop7/no4.jpg"
+        ],
+        description: "Turn heads wherever you go with these elegant brown high-heel platform sandals. Designed to combine glamour and comfort, this pair is perfect for women who want a bold, stylish look without compromising stability."
+      },
+      {
+        id: 8,
+        brand: "hills",
+        name: "Classic",
+        price: "UGX 130,000",
+        image: "shoes images/more shoes/shop8/no2.jpg",
+        additionalImages: [
+         "shoes images/more shoes/shop8/no1.jpg",
+         "shoes images/more shoes/shop8/no3.jpg",
+         "shoes images/more shoes/shop8/no4.jpg"
+        ],
+        description: "Crafted with a smooth suede-style finish, these heels feature a supportive platform sole and a sleek stiletto heel that adds height while reducing foot pressure. The adjustable ankle strap with buckle ensures a secure, comfortable fit, making them ideal for long nights out."
+      },
+    ];
+
+    // Get product ID from URL
+    const params = new URLSearchParams(window.location.search);
+    const productId = parseInt(params.get("id"));
+
+    // Find the product by ID
+    const product = products.find(p => p.id === productId);
+
+    const container = document.getElementById("product-details");
+
+    // Function to handle thumbnail click
+    function changeMainImage(newSrc, clickedThumbnail) {
+      // Update main image
+      const mainImg = document.getElementById('main-product-image');
+      mainImg.src = newSrc;
+      
+      // Update active state of thumbnails
+      const allThumbnails = document.querySelectorAll('.thumbnail');
+      allThumbnails.forEach(thumb => {
+        thumb.classList.remove('active');
+      });
+      
+      // Set active class on clicked thumbnail
+      clickedThumbnail.classList.add('active');
+    }
+
+    if (product) {
+      // Ensure product has additionalImages array (fallback to default if not)
+      if (!product.additionalImages) {
+        product.additionalImages = [
+          "shoes images/more shoes/IMG-20250920-WA0037.jpg",
+          "shoes images/more shoes/IMG-20250920-WA0038.jpg",
+          "shoes images/more shoes/IMG-20250920-WA0039.jpg"
+        ];
+      }
+      
+      // Combine main image with additional images for the gallery
+      const allImages = [product.image, ...product.additionalImages.slice(0, 3)];
+      
+      container.innerHTML = `
+        <div class="product-image">
+          <img id="main-product-image" class="main-image" src="${product.image}" alt="${product.name}">
+          
+          <div class="thumbnail-gallery">
+            ${allImages.map((imgSrc, index) => `
+              <img 
+                class="thumbnail ${index === 0 ? 'active' : ''}" 
+                src="${imgSrc}" 
+                alt="${product.name} - view ${index + 1}"
+                onclick="changeMainImage('${imgSrc}', this)"
+              >
+            `).join('')}
+          </div>
+        </div>
+        <div class="product-info">
+          <span class="brand">${product.brand}</span>
+          <h2>${product.name}</h2>
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p class="price">${product.price}</p>
+          <p class="description">${product.description}</p>
+          <button class="btn"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
+          <a href="shop.html" class="back">←Back to Shop</a>
+        </div>
+      `;
+    } else {
+      container.innerHTML = "<p>Product not found.</p>";
+    }
+  </script>
